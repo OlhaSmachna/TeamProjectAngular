@@ -1,6 +1,6 @@
 # Angular page layouts & widgets
 
-Angular group study project aiming to recreate some complex page layouts and customizable widgets following example
+Angular group study project aiming to recreate some complex page layouts and customizable widgets following example.
 
 ![Dashboard](https://res.cloudinary.com/dpp5ocil3/image/upload/v1730269293/portfolio%20images/angular%20team%20project/Dashboard.png)
 ![Chat](https://res.cloudinary.com/dpp5ocil3/image/upload/v1730269378/portfolio%20images/angular%20team%20project/Chat.png)
